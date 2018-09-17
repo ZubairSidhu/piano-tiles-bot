@@ -5,10 +5,11 @@ from collections import namedtuple
 from win32 import win32api
 import time
 import pyautogui
-#
+
 #   Written by Zubair Sidhu
 #   github.com/ZubairSidhu
-#
+
+#   Python 3.6.5
 #   Plays Piano Tiles automatically
 #   Game link: http://tanksw.com/piano-tiles/
 #   Uses OpenCV to detect tiles and win32 to click tiles
