@@ -5,4 +5,4 @@ Game Link: http://tanksw.com/piano-tiles/
 
 Highscore: 411
 
-[![](http://img.youtube.com/vi/nrM6T4UJdxc/0.jpg)](http://www.youtube.com/watch?v=nrM6T4UJdxc "piano-tiles-bot")
+[In Action](https://www.youtube.com/watch?v=nrM6T4UJdxc)
