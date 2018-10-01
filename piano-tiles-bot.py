@@ -81,7 +81,7 @@ def screencapture(dims):
             upper_color = np.array([0, 0, 20])
             tile_mask = cv2.inRange(hsv_output, lower_color, upper_color)
 
-            # Smooths image for easier rectanlge detection
+            # Smooths image for easier rectangle detection
             median = cv2.medianBlur(tile_mask, 151)
 
             # Finds contours in masked image
