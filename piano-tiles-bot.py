@@ -3,7 +3,6 @@ import cv2
 import numpy as np
 from collections import namedtuple
 from win32 import win32api
-import time
 import pyautogui
 
 #   Written by Zubair Sidhu
@@ -12,7 +11,7 @@ import pyautogui
 #   Python 3.6.5
 #   Plays Piano Tiles automatically
 #   Game link: http://tanksw.com/piano-tiles/
-#   Uses OpenCV to detect tiles and win32 to click tiles
+#   Uses OpenCV to detect tiles and pyautogui to click tiles
 
 #   Steps:
 #   1) Run file
